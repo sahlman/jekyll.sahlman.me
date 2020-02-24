@@ -628,7 +628,7 @@ a:hover {
 }
 
 .footer-section {
-	padding: 116px 0 130px;
+	padding: 16px 0 130px;
 }
 
 .footer-about {
@@ -1007,7 +1007,7 @@ a:hover {
 }
 
 .portfolio-slider-warp .center img {
-	border: 2px solid #fff;
+	border: 2px solid rgb(255, 255, 255);
 }
 
 /* ----------------
@@ -1017,6 +1017,8 @@ a:hover {
 .blog-page {
 	padding-top: 120px;
 	padding-bottom: 107px;
+	background-color: #141414;
+	color: #fff;
 }
 
 .blog-item {
@@ -1045,10 +1047,12 @@ a:hover {
 
 .blog-content h3 {
 	margin-bottom: 15px;
+		color: #fff;
+
 }
 
 .blog-content p {
-	color: #000;
+	color: #fff;
 	opacity: 0.5;
 	font-weight: 500;
 	margin-bottom: 25px;
@@ -1063,7 +1067,7 @@ a:hover {
 	margin-right: 13px;
 	padding-right: 13px;
 	font-size: 12px;
-	color: #565656;
+	color: #fff;
 	font-weight: 50;
 	position: relative;
 }
@@ -1141,11 +1145,13 @@ a:hover {
 	font-size: 18px;
 	padding-top: 2px;
 	padding-bottom: 3px;
+	color: #fff;
+
 }
 
 .sb-latest-post p {
 	font-size: 14px;
-	color: #000;
+	color: #fff;
 	opacity: 0.5;
 }
 
@@ -1290,6 +1296,7 @@ a:hover {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.main-menu li a {
 		margin-right: 25px;
+		color: #000;
 	}
 	.header-social a {
 		margin-left: 20px;
@@ -1360,6 +1367,7 @@ a:hover {
 	.contact-form {
 		padding-top: 80px;
 	}
+	
 }
 
 /* Large Mobile :480px. */
@@ -1378,6 +1386,7 @@ a:hover {
 		float: none;
 		margin-right: 0;
 		padding-right: 0;
+		background-color: #000;
 	}
 	.header-social a {
 		margin-left: 25px;
@@ -1386,7 +1395,7 @@ a:hover {
 		margin-left: 0;
 	}
 	.nav-switch {
-		display: inline-block;
+		display: inline;
 		color: #fff;
 		width: 40px;
 		height: 40px;
@@ -1419,13 +1428,16 @@ a:hover {
 	.main-menu li a {
 		display: block;
 		font-size: 16px;
-		color: #141325;
+		color: #141325 !important;
 		margin-right: 0;
 		padding: 14px 23px;
 		font-weight: 500;
 		text-align: left;
 		border-bottom: 1px solid #f1f1f1;
-	}
+	} 
+
+	
+
 	.contact-link {
 		display: none;
 	}
@@ -1482,6 +1494,11 @@ a:hover {
 		height: auto !important;
 		padding-bottom: 50px;
 	}
+  .grid-item.portfolio-item.__full{
+		height: 100% !important;
+		padding-bottom: 50px;
+	}
+
 	.portfolio-item {
 		width: 50%;
 	}
