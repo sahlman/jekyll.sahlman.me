@@ -5,20 +5,24 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: categories
   label: categories
 - type: text
   name: excerpt_separator
   label: excerpt_separator
+  default: "<!--more-->"
 - type: text
   name: author
   label: author
+  default: M. Sahlman
 pages:
 - _posts/foresty-test.md
