@@ -12,9 +12,6 @@ fields:
   name: date
   label: date
 - type: text
-  name: date2
-  label: date2
-- type: text
   name: categories
   label: categories
 - type: text
