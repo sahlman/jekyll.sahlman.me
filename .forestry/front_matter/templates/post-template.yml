@@ -24,5 +24,3 @@ fields:
   name: author
   label: author
   default: M. Sahlman
-pages:
-- _posts/foresty-test.md
