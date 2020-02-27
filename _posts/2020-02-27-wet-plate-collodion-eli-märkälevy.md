@@ -7,8 +7,6 @@ title: Wet plate collodion eli märkälevy
 categories: märkälevy
 
 ---
-## Wet plate collodion eli märkälevy
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sodales dolor leo, ut ultrices enim lobortis vehicula. Quisque at est accumsan, imperdiet dolor et, porta lacus. Curabitur in ultricies turpis, non finibus nulla. Pellentesque enim risus, efficitur vel fringilla consequat, eleifend scelerisque erat. Praesent mauris est, rhoncus vitae convallis ut, molestie non nulla. Vestibulum id elit augue. Curabitur efficitur id tellus et rhoncus.
 
 <!--more-->
