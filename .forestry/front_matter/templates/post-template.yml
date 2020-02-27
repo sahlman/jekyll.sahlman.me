@@ -24,3 +24,5 @@ fields:
   name: author
   label: author
   default: M. Sahlman
+pages:
+- _posts/wet-plate-collodion-eli-märkälevy.md
