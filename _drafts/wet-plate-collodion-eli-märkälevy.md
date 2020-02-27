@@ -12,3 +12,7 @@ Märkälevykuvaus keksittiin vuonna 1851 Englannissa. Keksijänä pidetään Fre
 <!--more-->
 
 Märkälevykuvauksen aikaan kuvaajat jaettiin usein kolmeen kategoriaan, tintypistit, ambrotypistit ja valokuvaajat. Valokuvaajat olivat heitä, ketkä taitoivat negatiivien tekemisen ja tekivät negatiiveista vedoksia. Tintypistit kuvasivat positiivikuvia suoraan mustaksi pinnoitetulle metallilevylle ja ambrotypistit kirkkaalle lasilevylle. Negatiivien tekeminen on märkälevykuvauksen muodoista vaikein. 
+
+Levyn tulee olla märkä koko kuvauksen ajan
+
+Kuvaus vaatii valmisteluja, levy pinnoitetaan kollodion-liuoksella ja annetaan herkistyä hopeanitraatissa. Herkistymisen jälkeen levy ladataan levykasettiin, asetetaan kameraan ja kuvataan. Kuvauksen jälkeen levy kehitetään , kiinnitetään ja pestään. Kaikki tulee tapahtua noin 10-15 minuutissa ettei ennen aikaista kuivamista tapahdu. Lopuksi levy kuivataan ja lakataan. Osa työvaiheista tulee tehdä pimeässä.
